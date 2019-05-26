@@ -1,8 +1,7 @@
-# go-grpc-http-rest-microservice-tutorial
-Source code for tutorial "How to develop Go gRPC microservice with HTTP/REST endpoint, middleware, Kubernetes deployment, etc."
+# GO gRPC HTTP REST Microservice Tutorial
 
-Source code for [Part 1](https://github.com/amsokol/go-grpc-http-rest-microservice-tutorial/tree/part1)
+From this [tutorial](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9)
 
-Source code for [Part 2](https://github.com/amsokol/go-grpc-http-rest-microservice-tutorial/tree/part2)
-
-Source code for [Part 3](https://github.com/amsokol/go-grpc-http-rest-microservice-tutorial/tree/part3)
+[![Go Report Card](https://goreportcard.com/badge/github.com/golang-standards/project-layout?style=flat-square)](https://goreportcard.com/report/https://github.com/mansguiche/go-grpc-http-rest-microservice-tutorial)
+[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](http://godoc.org/https://github.com/mansguiche/go-grpc-http-rest-microservice-tutorial)
+[![Release](https://img.shields.io/github/release/golang-standards/project-layout.svg?style=flat-square)](https://github.com/mansguiche/go-grpc-http-rest-microservice-tutorial/releases/latest)
